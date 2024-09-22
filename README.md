@@ -2,7 +2,7 @@
 
 🍏❤️💎
 
-🏙 Location: Moscow
+🏙 Location: Moscow  
 👨‍🎓 BS-SE @ ITMO University  
 👨‍💻 Senior Data Scientist @ Kuper (ex SberMarket)
 
