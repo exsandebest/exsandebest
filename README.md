@@ -4,6 +4,6 @@
 
 🏙 Location: Moscow  
 👨‍🎓 BS-SE @ ITMO University  
-👨‍💻 Senior Data Scientist @ Kuper (ex SberMarket)
+👨‍💻 Data Science Team Lead @ Kuper (ex SberMarket)
 
 📝 Contact me: [t.me/exsandebest](https://t.me/exsandebest)
